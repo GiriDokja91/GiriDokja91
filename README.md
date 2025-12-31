@@ -7,7 +7,7 @@
 
 <p align="center">
   🚀 DevOps & Mobile Application Developer <br/>
-  📱 Flutter | 🧠 .NET | 💾 SQL Server | ⚙️ CI/CD
+  📱 Flutter | 🧠 .NET | 💾 SQL Server | ⚙️ C#
 </p>
 
 ---
